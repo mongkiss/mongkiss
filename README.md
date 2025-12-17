@@ -5,6 +5,7 @@
 Heyyo i'm Mongkiss, or you can just call me Kimong. I'm currently studying computer science in Uni.
 Programming has been my thing since i was in middle school so...here we are.
 I use VSC to edit my scripts, and Affinity by Canva to edit stuff, also did some rendering using Blender.
+Also i'm working on a project, its a simple music player thing...stay tuned.
 BTW.....Respect Sanguinius.
 
 ___
