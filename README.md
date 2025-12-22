@@ -1,6 +1,6 @@
 # ABOUT ME!
 
-**"Programmer/Editor/Freelacer"**
+**"Programmer/Editor/Freelancer"**
 
 Heyyo i'm Mongkiss, or you can just call me Kimong. I'm currently studying computer science in Uni.
 Programming has been my thing since i was in middle school so...here we are.
