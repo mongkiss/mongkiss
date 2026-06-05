@@ -25,5 +25,3 @@ ___
 ___
 
 ### STATS
-
-![mongkiss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mongkiss&theme=dark&show_icons=true&hide_border=true&layout=compact)
